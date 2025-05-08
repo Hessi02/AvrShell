@@ -1,2 +1,2 @@
-# msh
-Minimal shell for embedded systems.
+# AvrShell
+Flexible shell for AVR microcontrollers.
